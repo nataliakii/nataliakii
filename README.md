@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nataliakii
 - 👀 I’m interested in movies
-- 🌱 I’m currently learning JS with Parsity
+- 🌱 I’m currently studying in Parsity 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nataliaki@icloud.com
 
