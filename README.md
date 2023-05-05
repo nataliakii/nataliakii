@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nataliakii
-- 👀 I’m interested in movies
-- 🌱 I’m currently studying in Parsity 
+- 👀 I’m interested in movies, coding and knitting
+- 🌱 I have finished studying at Parsity Coding School
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nataliaki@icloud.com
 
